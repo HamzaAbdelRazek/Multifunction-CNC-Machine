@@ -16,7 +16,7 @@ body {
 #searchBar {
     width: 60%; 
     padding: 10px; 
-    border: 1px solid #ccc; 
+    border: 1px solid #000; 
     border-radius: 5px; 
     font-size: 16px; 
 }
